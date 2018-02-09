@@ -1,0 +1,16 @@
+p {
+	color: #F283B6;
+	font-family: courier new;
+}
+h1 {
+	color: #E06C9F; 
+	font-style: italic;
+	border-top-style: double;
+	border-bottom-style: double;
+}
+img {
+	width: 50%
+	border: 2px;
+	border-style: double;
+	border-color: #F283B6;
+}
