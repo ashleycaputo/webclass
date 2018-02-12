@@ -1,0 +1,24 @@
+.wrapper {
+	max-width: 60%
+	border: double;
+	color: #FFD6D8;
+}
+h1 {
+	color: #AA8F99;
+	font-family: courier new;
+}
+h2 {
+	color: #AA8F99;
+	font-family: courier new;
+}
+p {
+	color: #D6A4B6;
+	font-family: courier new;
+}
+ul {
+	color: #D6A4B6;
+	font-family: courier new;
+}
+img {
+	
+}
