@@ -1,24 +1,47 @@
 .wrapper {
-	max-width: 60%
+	background-color: #FCEEE1;
+	max-width: 80%;
+	margin: 0 auto;
 	border: double;
-	color: #FFD6D8;
+	border-color: #AA8F99;
+}
+.clearfix: {
+	content:".";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
 }
 h1 {
 	color: #AA8F99;
 	font-family: courier new;
+	border-bottom: double;
+	border-color: #AA8F99;
+	text-align: center;
 }
 h2 {
 	color: #AA8F99;
+	font-family: times new roman;
+}
+h3 {
+	color:#D6A4B6;
 	font-family: courier new;
+	text-align: center;
 }
 p {
 	color: #D6A4B6;
-	font-family: courier new;
+	font-family: times new roman;
 }
 ul {
 	color: #D6A4B6;
-	font-family: courier new;
+	font-family: times new roman;
 }
 img {
-	
+	float: none;
+	border: double;
+	border-color: #AA8F99;
+}
+body {
+	background-color: #FFD6D8;
+	padding: 15%;
 }
